@@ -26,3 +26,4 @@ A simple URL shortener built with React and Vite. It uses a Vite proxy to commun
 -   **JavaScript**
 -   **CSs**
 
+![alt text](https://github.com/yogig/url-shortener-react/blob/main/browser_output.png " React URL Shortner")
